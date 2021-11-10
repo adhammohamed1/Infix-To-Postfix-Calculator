@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1630362275 source:c:\users\drogo\desktop\projects\c  projects\ds_assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1636098784 source:c:\users\drogo\desktop\work\projects\c  projects\ds_assignment1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
+1636098784 source:c:\users\drogo\desktop\work\projects\c  projects\complete versions\infix to postfix calculator\infix to postfix calculator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+
